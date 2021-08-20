@@ -32,7 +32,7 @@ Push the changes up to the remote repository
 
 `git push origin master`
 
-## Model Vesrsioning
+## Model Versioning
 - [Version Control ML Model](https://towardsdatascience.com/version-control-ml-model-4adb2db5f87c)
 - [How to version control your production machine learning models](https://algorithmia.com/blog/how-to-version-control-your-production-machine-learning-models)
 
